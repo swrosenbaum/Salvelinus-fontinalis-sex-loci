@@ -11,5 +11,5 @@ A bioinformatic workflow exploring genomic sex-determination in Mid-Atlantic bro
 Use [snpArcher](https://github.com/swrosenbaum/snpArcher) to process raw fastq files and obtain QC summary statistics.
 
 ### Step 2) 
-Use [findZX](https://github.com/swrosenbaum/findZX) to identify sex-associated loci.
+Use [findZX](https://github.com/swrosenbaum/findZX) to identify sex-linked loci.
 
